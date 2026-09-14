@@ -69,6 +69,20 @@ const appData = [
         image: 'CategCali.png', 
         products: [
             {
+                id: 'Triangle Mints ',
+                flag: '🇺🇸',
+                name: '🔻 Triangle Mints 🌶️',
+                farm: 'DidierSelection 🗽',
+                promoEligible: true,
+                type: 'Weed',
+                image: 'ProductTM.png',
+                 videos: ['VideoTM.mp4','VideoTM2.mp4','VideoTM3.mp4','VideoTM4.mp4'],
+                description: 'Triangle Mints a été créé lorsque Seed Junky Genetics a croisé Triangle Kush avec Animal Mints. Triangle Mints est composé à 30 % d\'Indica et à 70 % de Sativa. La génétique GSC donne à cette variété à dominante sativa des bourgeons denses et un arôme complexe qui comprend des arômes d\'herbes, d\'épices et de terre avec des nuances diesel, et les influences de GSC et d\'OG Kush sont évidentes dans cette variété. Le haut emballe un coup de poing puissant.',
+                tarifs: [
+                    { weight: '10g', price: 100.00 },
+                ]
+            },
+            {
                 id: 'RAINBOW RUNTZ ',
                 flag: '🇺🇸',
                 name: 'RAINBOW RUNTZ 🔮',
