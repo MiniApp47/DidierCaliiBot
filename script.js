@@ -398,7 +398,7 @@ const appData = [
         quality: '🧽 Mousseux',
         image: 'CategMousseux.png', 
         products: [
-            /* {
+             {
                 id: 'PABLO ESCOBAR 🇨🇴',
                 flag: '🇲🇦',
                 name: 'PABLO ESCOBAR 🇨🇴',
@@ -413,7 +413,7 @@ const appData = [
                     { weight: '50g', price: 200.00 },
                     { weight: '100g', price: 350.00 }
                 ]
-            },
+            },/*
             {
                 id: 'PRINGLES 🍟',
                 flag: '🇲🇦',
