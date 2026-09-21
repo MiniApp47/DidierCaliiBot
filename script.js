@@ -676,6 +676,23 @@ const appData = [
         image: 'CategZip.png', 
         products: [
             {
+                id: 'Guatemala 🇬🇹',
+                flag: '🇬🇹',
+                name: 'Guatemala 🇬🇹',
+                farm: 'No Farm',
+                promoEligible: true,
+                type: 'Hash',
+                image: 'ProductGA.jpg',
+                video: 'VideoGA.mp4',
+                description: '',
+                tarifs: [
+                    { weight: '1g', price: 70.00 },
+                    { weight: '2g', price: 120.00 },
+                    { weight: '5g', price: 250.00 },
+                    { weight: '10g', price: 450.00 }
+                ]
+            },
+            {
                 id: 'Mexicaine 🇲🇽',
                 flag: '🇲🇽',
                 name: 'Mexicaine 🇲🇽',
