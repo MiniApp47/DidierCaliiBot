@@ -693,7 +693,7 @@ const appData = [
                     { weight: '10g', price: 500.00 }
                 ]
             },
-            {
+           /*  {
                 id: 'Diesel 2 ⛽',
                 flag: '🇨🇴',
                 name: 'Diesel 2 ⛽',
@@ -727,7 +727,7 @@ const appData = [
                     { weight: '5g', price: 250.00 },
                     { weight: '10g', price: 450.00 }
                 ]
-            },
+            }, */
             /* {
                 id: 'Le Loup 🐺',
                 flag: '🇨🇴',
