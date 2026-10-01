@@ -472,6 +472,20 @@ const appData = [
         image: 'CategFiltre.png', 
         products: [
             {
+                id: 'MANGO',
+                flag: '🇲🇦',
+                name: 'MANGO',
+                farm: 'DidierSelection 🗽',
+                promoEligible: true,
+                type: 'Filtre',
+                image: 'ProductM.png',
+                video: 'VideoM.mp4',
+                description: '',
+                tarifs: [
+                    { weight: '10g', price: 100.00 },
+                ]
+            },
+            {
                 id: 'GMO',
                 flag: '🇲🇦',
                 name: 'GMO 🌽',
