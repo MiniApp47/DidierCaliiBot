@@ -69,6 +69,34 @@ const appData = [
         image: 'CategCali.png', 
         products: [
             {
+                id: 'Chantilly',
+                flag: '🇺🇸',
+                name: 'Chantilly 🌰',
+                farm: 'DidierSelection 🗽',
+                promoEligible: true,
+                type: 'Weed',
+                image: 'ProductCH.jpg',
+                images: ['ProductCH2.jpg','ProductCH3.jpg'],
+                 videos: ['VideoCH1.mov','VideoCH2.mov','VideoCH3.mov','VideoCH4.mov'],
+                description: `
+
+ *(édition 2)
+
+🤩🤩🤩🤩🤩🤩 🇺🇸🫧
+
+Chantilly est une expérience en soi. 
+
+Le goût 👅et l’odeur de la variété Chantilly peuvent varier d’un phénotype à l’autre, allant de la pâte à gâteau 🍰en passant par la crème fouettée, avec des notes de noisettes 🌰 ou de cardamome et des touches de combustible.
+
+Avec une teneur élevée en 👩‍🔬d'environ 20 %, cette variété provoque un puissant effet qui englobe le corps et apaise profondément l'esprit. 🪦
+
+Elle constitue le choix idéal pour les soirées tranquilles à la maison, 🪦lorsque la relaxation profonde est de mise. 
+Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt une humeur joyeuse et heureuse - une expérience inégalée pour tous les amateurs.💚`,
+                tarifs: [
+                    { weight: '10g', price: 100.00 },
+                ]
+            },
+            {
                 id: 'Triangle Mints ',
                 flag: '🇺🇸',
                 name: '🔻 Triangle Mints 🌶️',
