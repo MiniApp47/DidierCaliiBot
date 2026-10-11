@@ -718,6 +718,22 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
         image: 'CategZip.png', 
         products: [
             {
+                id: 'COLOMBIENNE 🇨🇴',
+                flag: '🇬🇹',
+                name: 'COLOMBIENNE 🇨🇴',
+                farm: 'No Farm',
+                promoEligible: true,
+                type: 'Hash',
+                image: 'ProductCL.png',
+                 videos: ['VideoCL.mp4','VideoCL2.mp4'],
+                description: '',
+                tarifs: [
+                    { weight: '1g', price: 60.00 },
+                    { weight: '2g', price: 100.00 },
+                    { weight: '5g + 1g offert 🎁', price: 250.00 },
+                ]
+            },
+            {
                 id: 'Guatemala 🇬🇹',
                 flag: '🇬🇹',
                 name: 'Guatemala 🇬🇹',
