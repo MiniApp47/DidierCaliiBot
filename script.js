@@ -499,7 +499,7 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
         quality: '💎 Filtré',
         image: 'CategFiltre.png', 
         products: [
-            {
+            /* {
                 id: 'MANGO',
                 flag: '🇲🇦',
                 name: 'MANGO',
@@ -557,7 +557,7 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
                     { weight: '10g', price: 100.00 },
                     { weight: '25g', price: 210.00 }
                 ]
-            },
+            }, */
            /*  {
                 id: 'SNICKERS 🍫',
                 flag: '🇲🇦',
