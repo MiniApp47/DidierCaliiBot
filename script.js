@@ -96,7 +96,7 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
                     { weight: '10g', price: 100.00 },
                 ]
             },
-            {
+            /* {
                 id: 'Triangle Mints ',
                 flag: '🇺🇸',
                 name: '🔻 Triangle Mints 🌶️',
@@ -124,7 +124,7 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
                     { weight: '10g', price: 100.00 },
                     { weight: '25G', price: 210.00 },
                 ]
-            },
+            }, */
           /*   {
                 id: 'LOVE POTION ',
                 flag: '🇺🇸',
