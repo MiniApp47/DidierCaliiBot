@@ -69,6 +69,22 @@ const appData = [
         image: 'CategCali.png', 
         products: [
             {
+                id: 'BLUE LOBSTER🦞 ',
+                flag: '🇺🇸',
+                name: 'BLUE LOBSTER🦞',
+                farm: 'DidierSelection 🗽',
+                promoEligible: true,
+                type: 'Weed',
+                image: 'ProductBL.png',
+                images: ['ProductBL2.jpg','ProductBL3.jpg'],
+                video: 'VideoBL.mp4',
+                description: 'Blue Lobster est une variété très puissante qui offre un mélange unique d\'effets édifiants et relaxants, de nombreux utilisateurs éprouvant un high fort et euphorique qui est à la fois apaisant et énergisant. \n Le profil de saveur de la variété est souvent décrit comme délicieux et intense, avec des notes de myrtille, de prune et de menthe, et ses effets sont dits durables, certains utilisateurs déclarant en ressentir les bienfaits pendant 45 minutes ou plus après seulement un ou deux coups. \n Dans l\'ensemble, la majorité des utilisateurs sont extrêmement satisfaits de Blue Lobster, citant sa capacité à tuer l\'anxiété, le stress et la douleur, et les laissant heureux, détendus et élevés.',
+                tarifs: [
+                    { weight: '10g', price: 100.00 },
+                    { weight: '25g', price: 210.00 },
+                ]
+            },
+            {
                 id: 'Chantilly',
                 flag: '🇺🇸',
                 name: 'Chantilly 🌰',
