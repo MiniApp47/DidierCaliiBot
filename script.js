@@ -749,7 +749,7 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
                     { weight: '5g + 1g offert 🎁', price: 250.00 },
                 ]
             },
-            {
+            /* {
                 id: 'Guatemala 🇬🇹',
                 flag: '🇬🇹',
                 name: 'Guatemala 🇬🇹',
@@ -783,7 +783,7 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
                     { weight: '5g', price: 350.00 },
                     { weight: '10g', price: 500.00 }
                 ]
-            },
+            }, */
            /*  {
                 id: 'Diesel 2 ⛽',
                 flag: '🇨🇴',
