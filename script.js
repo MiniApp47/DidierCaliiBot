@@ -69,6 +69,39 @@ const appData = [
         image: 'CategCali.png', 
         products: [
             {
+                id: 'RAINBOW SHERBET 🌈 ',
+                flag: '🇺🇸',
+                name: 'RAINBOW SHERBET 🌈',
+                farm: 'DidierSelection 🗽',
+                promoEligible: true,
+                type: 'Weed',
+                image: 'ProductRS.jpg',
+                video: 'VideoRS.mp4',
+                description: `Rainbow Sherbet est une variété remarquablement savoureuse avec des notes de sucre et de fruits. Fumer du Rainbow Sherbet vous fera vous sentir détendu, mais suffisamment concentré pour faire quelque chose de créatif ou d'inspirant. Fumer du sorbet arc-en-ciel en grande quantité changera cet effet et transformera votre expérience en une euphorie lourde. Les patients de marijuana médicale choisissent Rainbow Sherbet pour ses qualités de soulagement de la douleur.`,
+                tarifs: [
+                    { weight: '10g', price: 100.00 },
+                    { weight: '25g', price: 210.00 },
+                ]
+            },
+            {
+                id: 'PURE MICHIGAN 🏔️🌲 ',
+                flag: '🇺🇸',
+                name: 'PURE MICHIGAN 🏔️🌲',
+                farm: 'DidierSelection 🗽',
+                promoEligible: true,
+                type: 'Weed',
+                image: 'ProductPM.jpg',
+                video: 'VideoPM.mp4',
+                description: `Les patients de marijuana médicale choisissent souvent Pure Michigan lorsqu'ils font face à des symptômes associés à l'anxiété, à la dépression et aux troubles gastro-intestinaux. 
+Le terpène dominant de cette variété de cannabis est le limonène. 
+Pure Michigan présente un profil d'arôme et de saveur de fruits d'arbre, de citron vert et d'ammonia. 
+Si vous avez fumé, tamponné ou consommé du Pure Michigan, parlez-nous de votre expérience en laissant un avis de souche.`,
+                tarifs: [
+                    { weight: '10g', price: 100.00 },
+                    { weight: '25g', price: 210.00 },
+                ]
+            },
+            {
                 id: 'BLUE LOBSTER🦞 ',
                 flag: '🇺🇸',
                 name: 'BLUE LOBSTER🦞',
