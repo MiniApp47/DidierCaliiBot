@@ -475,6 +475,23 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
         quality: '🧽 Mousseux',
         image: 'CategMousseux.png', 
         products: [
+              {
+                id: 'MOUSSTRUEUX 🎃',
+                flag: '🇲🇦',
+                name: 'MOUSSTRUEUX 🎃',
+                farm: 'DidierSelection 🗽',
+                promoEligible: true,
+                type: 'Hash',
+                image: 'ProductMS.jpg',
+                images: ['ProductMS2.jpg'],
+                video:'',
+                description: 'Extraction jaune mousseux d’origine marocaine, issue du profil MOUSSTRUEUX 🎃 reconnue pour sa texture légère et son profil aromatique équilibré.\n La texture est souple, mousseuse et homogène, facile à travailler. \n Elle développe des arômes végétaux et légèrement sucrés, accompagnés de noterésineuses avec une touche subtilement herbacée.',
+                tarifs: [
+                    { weight: '20g', price: 100.00 },
+                    { weight: '50g', price: 200.00 },
+                    { weight: '100g', price: 350.00 }
+                ]
+            },
              {
                 id: 'PABLO ESCOBAR 🇨🇴',
                 flag: '🇲🇦',
