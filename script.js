@@ -483,7 +483,7 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
                 promoEligible: true,
                 type: 'Hash',
                 image: 'ProductMS.jpg',
-                images: ['ProductMS2.jpg'],
+                images: ['ProductMS.jpg','ProductMS2.jpg'],
                 video:'',
                 description: 'Extraction jaune mousseux d’origine marocaine, issue du profil MOUSSTRUEUX 🎃 reconnue pour sa texture légère et son profil aromatique équilibré.\n La texture est souple, mousseuse et homogène, facile à travailler. \n Elle développe des arômes végétaux et légèrement sucrés, accompagnés de noterésineuses avec une touche subtilement herbacée.',
                 tarifs: [
