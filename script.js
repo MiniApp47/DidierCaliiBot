@@ -117,7 +117,7 @@ Si vous avez fumé, tamponné ou consommé du Pure Michigan, parlez-nous de votr
                     { weight: '25g', price: 210.00 },
                 ]
             },
-            {
+            /* {
                 id: 'Chantilly',
                 flag: '🇺🇸',
                 name: 'Chantilly 🌰',
@@ -144,7 +144,7 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
                 tarifs: [
                     { weight: '10g', price: 100.00 },
                 ]
-            },
+            }, */
             /* {
                 id: 'Triangle Mints ',
                 flag: '🇺🇸',
@@ -784,8 +784,26 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
         image: 'CategZip.png', 
         products: [
             {
+                id: 'TC7 🛒',
+                flag: '🛒',
+                name: 'TC7 🛒',
+                farm: 'No Farm',
+                promoEligible: true,
+                type: 'Hash',
+                image: 'ProductTCC.jpg',
+                images: ['ProductTCC.jpg','ProductTCC2.jpg'],
+                video: 'VideoTC.mp4',
+                description: '',
+                tarifs: [
+                    { weight: '1g', price: 50.00 },
+                    { weight: '2g', price: 90.00 },
+                    { weight: '5g', price: 210.00 },
+                    { weight: '10g', price: 400.00 },
+                ]
+            },
+            {
                 id: 'COLOMBIENNE 🇨🇴',
-                flag: '🇬🇹',
+                flag: '🇨🇴',
                 name: 'COLOMBIENNE 🇨🇴',
                 farm: 'No Farm',
                 promoEligible: true,
