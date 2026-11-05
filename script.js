@@ -786,7 +786,7 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
              {
                 id: 'COLOMBIENNE 2 🇨🇴',
                 flag: '🇨🇴',
-                name: 'COLOMBIENNE 2 🇨🇴',
+                name: 'COLOMBIENNE 🇨🇴',
                 farm: 'No Farm',
                 promoEligible: true,
                 type: 'Hash',
@@ -817,7 +817,7 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
                     { weight: '10g', price: 400.00 },
                 ]
             },
-            {
+           /*  {
                 id: 'COLOMBIENNE 🇨🇴',
                 flag: '🇨🇴',
                 name: 'COLOMBIENNE 🇨🇴',
@@ -832,7 +832,7 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
                     { weight: '2g', price: 100.00 },
                     { weight: '5g + 1g offert 🎁', price: 250.00 },
                 ]
-            },
+            }, */
             /* {
                 id: 'Guatemala 🇬🇹',
                 flag: '🇬🇹',
