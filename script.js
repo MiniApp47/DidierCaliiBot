@@ -800,9 +800,9 @@ Malgré son effet puissant,🔥Chantilly ne crée pas de lourdeur, mais plutôt 
                 ]
             },
             {
-                id: 'TC7 🛒',
-                flag: '🛒',
-                name: 'TC7 🛒',
+                id: 'Péruvienne 🇵🇪',
+                flag: '🇵🇪',
+                name: 'Péruvienne 🇵🇪',
                 farm: 'No Farm',
                 promoEligible: true,
                 type: 'Hash',
