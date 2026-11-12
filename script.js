@@ -101,7 +101,7 @@ Si vous avez fumé, tamponné ou consommé du Pure Michigan, parlez-nous de votr
                     { weight: '25g', price: 210.00 },
                 ]
             },
-            {
+            /* {
                 id: 'BLUE LOBSTER🦞 ',
                 flag: '🇺🇸',
                 name: 'BLUE LOBSTER🦞',
@@ -116,7 +116,7 @@ Si vous avez fumé, tamponné ou consommé du Pure Michigan, parlez-nous de votr
                     { weight: '10g', price: 100.00 },
                     { weight: '25g', price: 210.00 },
                 ]
-            },
+            }, */
             /* {
                 id: 'Chantilly',
                 flag: '🇺🇸',
