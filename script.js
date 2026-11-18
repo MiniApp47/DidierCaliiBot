@@ -76,7 +76,7 @@ const appData = [
                 promoEligible: true,
                 type: 'Weed',
                 image: 'ProductOB.jpg',
-                images: ['ProductOB1.jpg'],
+                images: ['ProductOB.jpg','ProductOB1.jpg'],
                 video: 'VideoOB.mp4',
                 description: `Arômes et saveurs : Agrumes, orange, fruits rouges/myrtille, notes sucrées, florales ou lavande .
 
