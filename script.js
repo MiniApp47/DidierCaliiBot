@@ -69,6 +69,24 @@ const appData = [
         image: 'CategCali.png', 
         products: [
             {
+                id: 'ORANGE BERRY 🍊',
+                flag: '🇺🇸',
+                name: 'ORANGE BERRY 🍊',
+                farm: 'DidierSelection 🗽',
+                promoEligible: true,
+                type: 'Weed',
+                image: 'ProductOB.jpg',
+                images: ['ProductOB1.jpg'],
+                video: 'VideoOB.mp4',
+                description: `Arômes et saveurs : Agrumes, orange, fruits rouges/myrtille, notes sucrées, florales ou lavande .
+
+Effets rapportés
+Effets fréquents : Sensation d'apaisement, bonne humeur, concentration, créativité ou détente physique .`,
+                tarifs: [
+                    { weight: '10g', price: 100.00 },
+                ]
+            },
+            {
                 id: 'RAINBOW SHERBET 🌈 ',
                 flag: '🇺🇸',
                 name: 'RAINBOW SHERBET 🌈',
